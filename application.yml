@@ -1,0 +1,17 @@
+spring:
+  profiles:
+    active: dev
+
+---
+# 开发环境
+spring:
+  application:
+    name: abmsc-config-dev
+  profiles: dev
+
+---
+# 测试环境
+spring:
+  application:
+    name: abmsc-config-test
+  profiles: test
