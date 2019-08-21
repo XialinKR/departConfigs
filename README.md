@@ -1,0 +1,2 @@
+# departConfigs
+EurekaStudy
